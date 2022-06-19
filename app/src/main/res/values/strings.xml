@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jual Beli Item Game</string>
+    <string name="nama_penyewa">Nama Penyewa <font color='red'>(*)</font></string>
+    <string name="email">Email <font color='red'>(*)</font></string>
+    <string name="no_telp_hp">No. Telp/HP <font color='red'>(*)</font></string>
+    <string name="game">Game <font color='red'>(*)</font></string>
+    <string name="item">Nama item <font color='red'>(*)</font></string>
+</resources>
